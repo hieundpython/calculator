@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/hieund0381/Parts%20Unlimited/_apis/build/status/hieundpython.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/hieund0381/Parts%20Unlimited/_build/latest?definitionId=3&branchName=refs%2Fpull%2F1%2Fmerge)
+[![Build Status](https://dev.azure.com/hieund0381/Parts%20Unlimited/_apis/build/status/hieundpython.calculator?branchName=master)](https://dev.azure.com/hieund0381/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 
 
 The project contains a simple node.js application that exposes REST APIs
